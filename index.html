@@ -4,6 +4,10 @@ layout: default
 
 {% assign genres = site.data.genres %}
 
+<pre>
+{{ genres | jsonify }}
+</pre>
+
 {% for genre in genres %}
   <h2>{{ genre.name }}</h2>
   <ul>
