@@ -10,7 +10,7 @@ github_username: tm-lbenson
 # Build Settings
 markdown: kramdown
 theme: minima
-permalink: /:categories/:title/
+permalink: /GPTales/:categories/:title/
 
 # Plugins
 plugins:
