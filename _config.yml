@@ -2,6 +2,4 @@
 title: GPTales
 theme: minima
 
-# Build Settings
-markdown: kramdown
-permalink: /:categories/:title/
+
