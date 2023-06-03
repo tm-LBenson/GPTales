@@ -4,4 +4,4 @@ theme: minima
 
 # Build Settings
 markdown: kramdown
-permalink: /GPTales/:categories/:title/
+permalink: /:categories/:title/
