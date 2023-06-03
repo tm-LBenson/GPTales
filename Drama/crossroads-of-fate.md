@@ -2,7 +2,7 @@
 layout: default
 title: 'Crossroads of Fate'
 date: 2023-06-05
-genre: Drama
+genre: drama
 ---
 
 In the vibrant city of Magnolia, two best friends, Thomas and Carter, lived lives as intertwined as the roots of an ancient tree. Childhood playmates, roommates in college, and finally, partners in a thriving tech startup, their bond seemed unbreakable.

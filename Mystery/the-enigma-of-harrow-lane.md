@@ -2,7 +2,7 @@
 layout: default
 title: 'The Enigma of Harrow Lane'
 date: 2023-06-05
-genre: Mystery
+genre: mystery
 ---
 
 Detective Anna Jenkins had seen her fair share of mysteries, but the case of Harrow Lane was different. Number 13 Harrow Lane, to be precise. It was an old, eerie mansion with a reputation for being haunted. The mansion's owner, an eccentric old man named Albert Strauss, had gone missing, and the only clue was a cryptic note left in his study.

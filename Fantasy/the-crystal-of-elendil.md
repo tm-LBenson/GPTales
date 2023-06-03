@@ -2,7 +2,7 @@
 layout: default
 title: 'The Crystal of Elendil'
 date: 2023-06-05
-genre: Fantasy
+genre: fantasy
 ---
 
 In the realm of Mysteria, where ethereal beings dwell and magic flows like the wind, there existed a legendary artifact known as the Crystal of Elendil. This translucent stone had the power to manipulate time and space, controlled by the one who held it.
