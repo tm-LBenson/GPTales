@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>{{ page.title }}</title>
+    <link
+      rel="stylesheet"
+      href="{{ '/assets/css/styles.css' | relative_url }}"
+    />
+  </head>
+  <body>
+    <header>
+      <p>GPTales</p>
+      <nav>
+        <ul>
+          <li><a href="{{ '/' | relative_url }}">Home</a></li>
+          <li><a href="{{ '/Fantasy' | relative_url }}">Fantasy</a></li>
+          <li><a href="{{ '/SciFi' | relative_url }}">Sci-Fi</a></li>
+          <li><a href="{{ '/Mystery' | relative_url }}">Mystery</a></li>
+          <li><a href="{{ '/Drama' | relative_url }}">Drama</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>{{ content }}</main>
+    <footer>
+      <p>&copy; {{ 'now' | date: "%Y" }} - GPTales</p>
+    </footer>
+  </body>
+</html>

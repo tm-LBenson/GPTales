@@ -1,0 +1,9 @@
+---
+layout: default
+---
+<article>
+  <h1>{{ page.title }}</h1>
+  <p>Published: {{ page.date | date: "%B %d, %Y" }}</p>
+  <p>Genre: {{ page.genre }}</p>
+  {{ content }}
+</article>
