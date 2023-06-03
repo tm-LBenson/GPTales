@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: 'Crossroads of Fate'
 date: 2023-06-05
 genre: drama

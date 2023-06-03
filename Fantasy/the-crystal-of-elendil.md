@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: 'The Crystal of Elendil'
 date: 2023-06-05
 genre: fantasy

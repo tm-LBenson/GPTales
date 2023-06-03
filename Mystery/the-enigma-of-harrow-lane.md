@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: 'The Enigma of Harrow Lane'
 date: 2023-06-05
 genre: mystery

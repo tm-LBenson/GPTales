@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: 'Echoes Through the Stars'
 date: 2023-06-05
 genre: scifi
