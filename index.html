@@ -2,12 +2,14 @@
 layout: default
 ---
 
-{% assign genres = site.data.genres %} {% for genre in genres %}
-<h2>{{ genre.name }}</h2>
-<ul>
-  {% assign genre_stories = site.posts | where: "genre", genre.slug %} {% for
-  story in genre_stories %}
-  <li><a href="{{ story.url }}">{{ story.title }}</a></li>
-  {% endfor %}
-</ul>
+{% assign genres = site.data.genres %}
+
+{% for genre in genres %}
+  <h2>{{ genre.name }}</h2>
+  <ul>
+    {% assign genre_stories = site.posts | where: "genre", genre.slug %}
+    {% for story in genre_stories %}
+      <li><a href="{{ story.url | relative_url }}">{{ story.title }}</a></li>
+    {% endfor %}
+  </ul>
 {% endfor %}
