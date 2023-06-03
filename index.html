@@ -6,12 +6,7 @@ layout: default
 
 <h2>Genres Data:</h2>
 <pre>
-{{ site.data.genres | jsonify }}
-</pre>
-
-<h2>All Pages:</h2>
-<pre>
-{{ site.pages | jsonify }}
+{{ site.data.genres }}
 </pre>
 
 {% assign genres = site.data.genres %}
@@ -19,7 +14,7 @@ layout: default
 {% for genre in genres %}
   <h2>{{ genre.name }}</h2>
   <ul>
-    {% assign genre_stories = site.pages | where_exp: "story", "story.url contains genre.slug" %}
+    {% assign genre_stories = site.pages | where_exp: "story", "story.genre == genre.slug" %}
     {% for story in genre_stories %}
       <li><a href="{{ story.url | relative_url }}">{{ story.title }}</a></li>
     {% endfor %}
