@@ -2,11 +2,19 @@
 layout: default
 ---
 
-{% assign genres = site.data.genres %}
+<h1>Debug Information</h1>
 
+<h2>Genres Data:</h2>
 <pre>
-{{ genres | jsonify }}
+{{ site.data.genres | jsonify }}
 </pre>
+
+<h2>All Pages:</h2>
+<pre>
+{{ site.pages | jsonify }}
+</pre>
+
+{% assign genres = site.data.genres %}
 
 {% for genre in genres %}
   <h2>{{ genre.name }}</h2>
