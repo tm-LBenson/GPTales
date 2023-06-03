@@ -6,7 +6,9 @@ layout: default
 
 <h2>Genres Data:</h2>
 <pre>
-{{ site.data.genres }}
+{% for genre in site.data.genres %}
+  {{ genre.name }}: {{ genre.slug }}
+{% endfor %}
 </pre>
 
 {% assign genres = site.data.genres %}
