@@ -1,8 +1,8 @@
 - name: Fantasy
-  slug: fantasy
+  slug: Fantasy
 - name: SciFi
-  slug: scifi
+  slug: SciFi
 - name: Mystery
-  slug: mystery
+  slug: Mystery
 - name: Drama
-  slug: drama
+  slug: Drama
