@@ -1,16 +1,16 @@
 # Site Settings
 title: GPTales
-email: tm.lewisbenson@gmail.com
+email: your-email@example.com
 description: > # this means to ignore newlines until "baseurl:"
   A collection of diverse stories written by AI.
-baseurl: '' # the subpath of your site, e.g. /blog
+baseurl: '/GPTales' # the subpath of your site, e.g. /blog
 url: 'https://tm-lbenson.github.io' # the base hostname & protocol for your site
 github_username: tm-lbenson
 
 # Build Settings
 markdown: kramdown
 theme: minima
-permalink: /GPTales/:categories/:title/
+permalink: /:categories/:title/
 
 # Plugins
 plugins:
