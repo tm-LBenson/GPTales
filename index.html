@@ -2,23 +2,24 @@
 layout: default
 ---
 
-<h1>Debug Information</h1>
+<h1>GPTales - Table of Contents</h1>
 
-<h2>Genres Data:</h2>
-<pre>
-{% for genre in site.data.genres %}
-  {{ genre.name }}: {{ genre.slug }}
-{% endfor %}
-</pre>
+<h2>🧙‍♂️ Fantasy</h2>
+<ul>
+  <li><a href="/Fantasy/the-crystal-of-elendil.html">The Crystal of Elendil</a></li>
+</ul>
 
-{% assign genres = site.data.genres %}
+<h2>🚀 SciFi</h2>
+<ul>
+  <li><a href="/SciFi/echoes-through-the-stars.html">Echoes Through the Stars</a></li>
+</ul>
 
-{% for genre in genres %}
-  <h2>{{ genre.name }}</h2>
-  <ul>
-    {% assign genre_stories = site.pages | where_exp: "story", "story.genre == genre.slug" %}
-    {% for story in genre_stories %}
-      <li><a href="{{ story.url | relative_url }}">{{ story.title }}</a></li>
-    {% endfor %}
-  </ul>
-{% endfor %}
+<h2>🕵️‍♀️ Mystery</h2>
+<ul>
+  <li><a href="/Mystery/the-enigma-of-harrow-lane.html">The Enigma of Harrow Lane</a></li>
+</ul>
+
+<h2>🎭 Drama</h2>
+<ul>
+  <li><a href="/Drama/crossroads-of-fate.html">Crossroads of Fate</a></li>
+</ul>
