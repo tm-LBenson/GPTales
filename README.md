@@ -13,23 +13,23 @@ In this unique intersection of technology and creativity, GPTales presents a col
 This repository is structured in a tree-style layout:
 
 📂
-├── 🧙‍♂️ **Fantasy** 
-│   ├── Story1.md
-│   ├── Story2.md
-│   └── ...
-├── 🚀 **SciFi**
-│   ├── Story1.md
-│   ├── Story2.md
-│   └── ...
-├── 🕵️‍♀️ **Mystery**
-│   ├── Story1.md
-│   ├── Story2.md
-│   └── ...
-└── 🎭 **Drama**
-    ├── Story1.md
-    ├── Story2.md
-    └── ...
-
+├── 🧙‍♂️ **Fantasy**   
+│   ├── Story1.md  
+│   ├── Story2.md  
+│   └── ...  
+├── 🚀 **SciFi**  
+│   ├── Story1.md  
+│   ├── Story2.md  
+│   └── ...  
+├── 🕵️‍♀️ **Mystery**  
+│   ├── Story1.md  
+│   ├── Story2.md  
+│   └── ...  
+└── 🎭 **Drama**  
+    ├── Story1.md  
+    ├── Story2.md  
+    └── ...  
+  
 ## Contribute
 
 We welcome and appreciate any contributions. Feel free to submit pull requests for new AI-generated stories, improvements on existing ones, or bug fixes. For major changes, please open an issue first to discuss what you would like to change.
