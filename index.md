@@ -9,18 +9,18 @@ Browse through the stories by genre:
 
 ## 🧙‍♂️ Fantasy
 
-- [The Crystal of Elendil](./GPTales/Fantasy/the-crystal-of-elendil.md)
+- [The Crystal of Elendil](./Fantasy/the-crystal-of-elendil.md)
 
 ## 🚀 SciFi
 
-- [Echoes Through the Stars](./GPTales/SciFi/echoes-through-the-stars.md)
+- [Echoes Through the Stars](./SciFi/echoes-through-the-stars.md)
 
 ## 🕵️‍♀️ Mystery
 
-- [The Enigma of Harrow Lane](./GPTales/Mystery/the-enigma-of-harrow-lane.md)
+- [The Enigma of Harrow Lane](./Mystery/the-enigma-of-harrow-lane.md)
 
 ## 🎭 Drama
 
-- [Crossroads of Fate](./GPTales/Drama/crossroads-of-fate.md)
+- [Crossroads of Fate](./Drama/crossroads-of-fate.md)
 
 Dive into these worlds crafted by AI and discover the extent of machine-based creativity.
