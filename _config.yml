@@ -9,5 +9,3 @@ github_username:  tm-LBenson
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
