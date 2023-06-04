@@ -29,6 +29,7 @@ window.onload = function() {
 
   let nextButton = document.createElement('button');
   nextButton.textContent = 'Next Page';
+  nextButton.className = 'pagination-button';
   nextButton.onclick = function() {
     if (currentPage < pages.length - 1) {
       showPage(currentPage + 1);
@@ -37,6 +38,7 @@ window.onload = function() {
 
   let prevButton = document.createElement('button');
   prevButton.textContent = 'Previous Page';
+  prevButton.className = 'pagination-button';
   prevButton.onclick = function() {
     if (currentPage > 0) {
       showPage(currentPage - 1);
@@ -44,8 +46,10 @@ window.onload = function() {
   };
 
   let pageNumberDisplay = document.createElement('p');
+  pageNumberDisplay.className = 'pagination-number';
 
   let pageNumberSelector = document.createElement('select');
+  pageNumberSelector.className = 'pagination-selector';
   for (let i = 0; i < pages.length; i++) {
     let option = document.createElement('option');
     option.textContent = `Page ${i + 1}`;
@@ -56,9 +60,9 @@ window.onload = function() {
     showPage(parseInt(pageNumberSelector.value));
   };
 
-  contentDiv.after(nextButton);
-  contentDiv.after(pageNumberDisplay);
   contentDiv.after(pageNumberSelector);
+  contentDiv.after(pageNumberDisplay);
+  contentDiv.after(nextButton);
   contentDiv.before(prevButton);
 
   showPage(0);
