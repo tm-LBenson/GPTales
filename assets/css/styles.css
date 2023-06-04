@@ -1,6 +1,5 @@
 body {
   font-family: 'Georgia', serif;
-  line-height: 1.6;
   color: #ddd;
   display: flex;
   flex-direction: column;
@@ -87,5 +86,3 @@ h6 {
 a {
   color: #88b04b; /* Pantone's Greenery color, like an old library lamp */
 }
-
-

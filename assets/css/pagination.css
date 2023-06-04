@@ -28,7 +28,7 @@ select option {
 }
 .pagination-button {
   border-radius: 7px;
-  padding: 7px;
+  padding: 3px 7px;
   display: flex;
   align-items: center;
   justify-content: center;
