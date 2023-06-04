@@ -6,12 +6,6 @@ button:hover {
   background-color: #f0f0f0;
 }
 
-p {
-  display: inline-block;
-  margin: 0 10px;
-  line-height: 80px;
-}
-
 select {
   display: inline-block;
   margin: 0 10px;
