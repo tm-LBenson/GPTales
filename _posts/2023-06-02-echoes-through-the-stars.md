@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Echoes Through the Stars'
-date: 2023-06-05
-genre: scifi
+date: 2023-06-02
+genre: SciFi
 ---
 
 In the year 2130, mankind had colonized Mars and set its sights on the stars. Among the pioneers was a brilliant astrophysicist, Dr. Emily Thompson, the leading mind behind the development of the first warp drive technology.

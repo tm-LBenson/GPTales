@@ -1,0 +1,53 @@
+.post-content {
+  margin-bottom: 20px;
+}
+
+button:hover {
+  background-color: #f0f0f0;
+}
+
+select {
+  display: inline-block;
+  margin: 0 10px;
+  height: 80px;
+  border: 1px solid #ccc;
+  background-color: #fafafa;
+  color: #333;
+  padding: 0 10px;
+}
+
+select option {
+  height: 80px;
+  padding: 0 10px;
+}
+.pagination-button {
+  border-radius: 7px;
+  padding: 3px 7px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #f4f4f4;
+  border: none;
+  text-align: center;
+  cursor: pointer;
+}
+
+.page-number-button {
+  background-color: #7073d3;
+}
+
+.pagination-button:disabled {
+  background: #bfbfbf;
+  cursor: default;
+}
+.pagination-container {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+  margin-top: 20px;
+  margin-right: 10%;
+}
+.selected-page {
+  background-color: #88b04b;
+}

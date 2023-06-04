@@ -1,0 +1,4 @@
+---
+layout: genre
+name: Fantasy
+---
