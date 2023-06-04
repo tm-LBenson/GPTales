@@ -20,13 +20,13 @@ window.onload = function () {
     if (currentPage === 0) {
       prevButton.style.display = 'none';
     } else {
-      prevButton.style.display = 'block';
+      prevButton.style.display = 'inline';
     }
 
     if (currentPage === pages.length - 1) {
       nextButton.style.display = 'none';
     } else {
-      nextButton.style.display = 'block';
+      nextButton.style.display = 'inline';
     }
   }
 
@@ -58,11 +58,16 @@ window.onload = function () {
     return button;
   });
 
-  contentDiv.after(prevButton);
+  let paginationContainer = document.createElement('div');
+  paginationContainer.className = 'pagination-container';
+
+  paginationContainer.append(prevButton);
   pageNumberButtons.forEach(function (btn) {
-    contentDiv.after(btn);
+    paginationContainer.append(btn);
   });
-  contentDiv.after(nextButton);
+  paginationContainer.append(nextButton);
+
+  contentDiv.after(paginationContainer);
 
   showPage(0);
 };
