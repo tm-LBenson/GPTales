@@ -14,6 +14,9 @@ window.onload = function () {
     let button = document.createElement('button');
     button.textContent = pageIndex + 1;
     button.className = 'pagination-button page-number-button';
+    if (pageIndex === currentPage) {
+      button.classList.add('selected-page');
+    }
     button.onclick = function () {
       showPage(pageIndex);
     };
