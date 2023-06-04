@@ -7,8 +7,10 @@
       rel="stylesheet"
       href="{{ '/assets/css/styles.css' | relative_url }}"
     />
-    <link rel="stylesheet" type="text/css" href="/path/to/pagination.css">
-
+    <link
+      rel="stylesheet"
+      href="{{ '/assets/css/pagination.css' | relative_url }}"
+    />
   </head>
   <body>
     <header>
@@ -17,7 +19,7 @@
         <ul>
           <li><a href="{{ '/' | relative_url }}">Home</a></li>
           {% for genre in site.genres %}
-            <li><a href="{{ genre.url | relative_url }}">{{ genre.name }}</a></li>
+          <li><a href="{{ genre.url | relative_url }}">{{ genre.name }}</a></li>
           {% endfor %}
         </ul>
       </nav>
