@@ -1,3 +1,4 @@
 ---
 layout: genre
+name: Mystery
 ---
