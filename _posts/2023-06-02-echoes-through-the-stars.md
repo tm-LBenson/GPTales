@@ -14,7 +14,7 @@ Just when the Artemis was ready to engage its warp drive, an anomalous energy si
 Curiosity piqued, Emily ordered the crew to investigate. Upon reaching the asteroid field, they discovered an alien spacecraft, ancient and abandoned. Its design was beyond human comprehension, built with technology far advanced from ours.
 
 Inside the alien ship, they found a cosmic map highlighting a distant star system, unfamiliar to human astronomers. Alongside the map was a device projecting a hologram, a desperate plea for help in a language unknown to humans, but the urgency in the alien's holographic expression was universal.
-
+<!-- pagebreak -->
 Despite the risks, Emily made the decision to use the alien's coordinates and engage the warp drive. The Artemis flung across galaxies and arrived at the distant star system. They found a dying planet, ravaged by a catastrophic event.
 
 As they descended, they encountered the alien race, on the brink of extinction. Using the translation device they had taken from the alien ship, Emily communicated with them. They were suffering from a deadly plague, and their pleas had been their last-ditch attempt to find help in the universe.
