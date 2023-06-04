@@ -1,5 +1,5 @@
 console.log('pagination running...');
-window.onload = function() {
+window.onload = function () {
   let contentDiv = document.querySelector('.post-content');
   if (!contentDiv) return;
 
@@ -12,7 +12,10 @@ window.onload = function() {
   function showPage(pageNumber) {
     contentDiv.innerHTML = pages[pageNumber];
     currentPage = pageNumber;
-    pageNumberDisplay.textContent = `Page ${pageNumber + 1} of ${pages.length}`;
+
+    pageNumberButtons.forEach(function (btn, index) {
+      btn.disabled = index === pageNumber;
+    });
 
     if (currentPage === 0) {
       prevButton.style.display = 'none';
@@ -28,41 +31,37 @@ window.onload = function() {
   }
 
   let nextButton = document.createElement('button');
-  nextButton.textContent = 'Next Page';
+  nextButton.textContent = '→';
   nextButton.className = 'pagination-button';
-  nextButton.onclick = function() {
+  nextButton.onclick = function () {
     if (currentPage < pages.length - 1) {
       showPage(currentPage + 1);
     }
   };
 
   let prevButton = document.createElement('button');
-  prevButton.textContent = 'Previous Page';
+  prevButton.textContent = '←';
   prevButton.className = 'pagination-button';
-  prevButton.onclick = function() {
+  prevButton.onclick = function () {
     if (currentPage > 0) {
       showPage(currentPage - 1);
     }
   };
 
-  let pageNumberDisplay = document.createElement('p');
-  pageNumberDisplay.className = 'pagination-number';
+  let pageNumberButtons = pages.map(function (_, index) {
+    let button = document.createElement('button');
+    button.textContent = index + 1;
+    button.className = 'pagination-button page-number-button';
+    button.onclick = function () {
+      showPage(index);
+    };
+    return button;
+  });
 
-  let pageNumberSelector = document.createElement('select');
-  pageNumberSelector.className = 'pagination-selector';
-  for (let i = 0; i < pages.length; i++) {
-    let option = document.createElement('option');
-    option.textContent = `Page ${i + 1}`;
-    option.value = i;
-    pageNumberSelector.appendChild(option);
-  }
-  pageNumberSelector.onchange = function() {
-    showPage(parseInt(pageNumberSelector.value));
-  };
-
-  contentDiv.after(pageNumberSelector);
-  contentDiv.after(pageNumberDisplay);
   contentDiv.after(nextButton);
+  pageNumberButtons.forEach(function (btn) {
+    contentDiv.after(btn);
+  });
   contentDiv.before(prevButton);
 
   showPage(0);
