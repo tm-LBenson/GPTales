@@ -29,7 +29,7 @@ It all revolves around one man's quest, his struggle to know if he is a part of 
 
 <!-- pagebreak -->
 
-Chapter One
+## Chapter One
 
 The city was coming to life as I stepped out onto the streets, a world starting its day in harmonious chaos. The rhythm of morning routine was a symphony of its own, a pattern that had become my life. But beneath that familiarity, questions churned, eager to break the surface.
 
