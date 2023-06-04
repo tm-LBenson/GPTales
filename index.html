@@ -9,7 +9,7 @@ layout: default
   <ul>
     {% for post in site.posts %}
       {% if post.genre == genre.name %}
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url }}">{{ post.title }}</a>
       {% endif %}
     {% endfor %}
   </ul>
