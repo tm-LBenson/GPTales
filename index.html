@@ -2,14 +2,15 @@
 layout: default
 ---
 
-<h1>All site posts</h1>
-
-{% for post in site.posts %}
-  <ul>
-    <li>{{ post.title }}</li>
-  </ul>
-{% endfor %}
-
 <h1>GPTales - Table of Contents</h1>
 
-...
+{% for genre in site.data.genres %}
+  <h2>{{ genre.name }}</h2>
+  <ul>
+    {% for post in site.posts %}
+      {% if post.genre == genre.name %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+{% endfor %}
