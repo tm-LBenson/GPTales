@@ -2,20 +2,6 @@
   margin-bottom: 20px;
 }
 
-button {
-  display: inline-block;
-  width: 40px;
-  height: 40px;
-  border-radius: 7px;
-  background-color: #7073d3;
-  border: 1px solid #ccc;
-  color: #333;
-  text-align: center;
-  line-height: 80px;
-  text-decoration: none;
-  transition: background-color 0.3s;
-}
-
 button:hover {
   background-color: #f0f0f0;
 }
@@ -41,14 +27,13 @@ select option {
   padding: 0 10px;
 }
 .pagination-button {
-  display: inline-block;
-  width: 40px;
-  height: 40px;
+  padding: 7px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   background: #f4f4f4;
   border: none;
-  margin: 5px;
   text-align: center;
-  line-height: 40px;
   cursor: pointer;
 }
 
