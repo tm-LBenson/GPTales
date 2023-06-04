@@ -58,11 +58,11 @@ window.onload = function () {
     return button;
   });
 
-  contentDiv.after(nextButton);
+  contentDiv.after(prevButton);
   pageNumberButtons.forEach(function (btn) {
     contentDiv.after(btn);
   });
-  contentDiv.before(prevButton);
+  contentDiv.after(nextButton);
 
   showPage(0);
 };
