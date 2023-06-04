@@ -56,7 +56,11 @@ window.onload = function () {
     currentPage = pageNumber;
 
     pageNumberButtons.forEach(function (btn, index) {
-      btn.disabled = btn.textContent === (currentPage + 1).toString();
+      if (btn.textContent === (currentPage + 1).toString()) {
+        btn.classList.add('selected-page');
+      } else {
+        btn.classList.remove('selected-page');
+      }
     });
 
     prevButton.style.display = currentPage === 0 ? 'none' : 'inline';

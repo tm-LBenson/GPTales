@@ -68,3 +68,6 @@ select option {
   margin-top: 20px;
   margin-right: 10%;
 }
+.selected-page {
+  background-color: #88b04b;
+}
