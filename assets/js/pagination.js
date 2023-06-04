@@ -1,3 +1,4 @@
+console.log('pagination running...')
 window.onload = function() {
   var contentDiv = document.getElementById('post-content');
   if (!contentDiv) return;
