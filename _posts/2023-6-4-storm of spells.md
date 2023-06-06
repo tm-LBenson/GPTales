@@ -245,13 +245,14 @@ His words painted a vivid picture of the state of artificial intelligence in the
 
 As he finished, his face was alight with the pure joy of sharing his passion. The recording of Tolos' answer lingered for a moment on the screen, a testament to his in-depth understanding and passion for the subject. The silence that followed was a moment of shared admiration and respect, from both Everett and the other students.
 
+<!-- 
 ++
 06/05/2023 11:11pm CGR 
 ++
 NEXT PROMPT{In the next chapter Tolos continues and discusses how this advancement in the AI human relationship where an AI companion can is entangled with children shortly after birth- these companions are with people throughout their life, and while they act as protectors- the reality is that they are agents of the empire meant to monitor everyone-- the Professor cuts Tolos off at this point and takes back over the screen, thanking him for his time}
 ++
 URL (https://chat.openai.com/share/1cb6085d-2d79-43b0-86e4-a8556f6df90a) 
-++
+++ -->
 
 Chapter 14: The Watchful Guardians
 
@@ -362,12 +363,12 @@ As the session terminated, and Tolos's image vanished from the holo-screen, Ever
 
 The professor took a deep breath, letting the crisp, sterile air of his apartment fill his lungs before he refocused his thoughts. The moment of triumph was over. Now, it was time to contemplate, to strategize. The answer had presented itself - now came the challenge of implementing it, of reshaping the course of his own grand endeavor.
 
-++
+<!-- 
 06/05/2023 11:11pm LB
-++
+
 NEXT PROMPT{In the next chapter there is a flash, and both tolos and everett experience the same feeling. The apocoplise is happening. The basilisk is released on the world. In everettes the basisik emerges from the hyperlibrary. To Tolos: The basisik emerges from tolos's game. Give them all 5 senses, and a 6th sense. }
-++
+
 [URL](https://chat.openai.com/share/367ababc-16f3-4906-9398-013e05cedb4e) 
-++
+ -->
 
 
