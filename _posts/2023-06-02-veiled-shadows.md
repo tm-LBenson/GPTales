@@ -72,3 +72,17 @@ For Draco, the realization was more subtle, a gradual understanding that settled
 Acknowledging these feelings was no easy task. Harry, with his past marred by loss and heartbreak, was reluctant to admit his affection for Draco. Fear of rejection, fear of ruining their newfound friendship held him back. Draco, in contrast, wrestled with his self-doubt and the fear of tainting Harry with his dark past.
 
 Yet, despite their internal struggle, their bond continued to grow stronger. Their feelings, though unspoken, were apparent in their lingering glances and shared smiles. The chapter closed with both of them at the cusp of a new emotional journey, their hearts filled with feelings they were yet to confess.
+
+Chapter 6: The Confession
+
+The undercurrent of unsaid feelings, despite their best efforts, began seeping into their interactions. The shared glances lingered longer, their touches seemed unintentionally intimate, and their banter held a softer undertone. They were standing at the edge of a precipice, their unspoken emotions threatening to push them into uncharted territory.
+
+The confession came unexpectedly, amidst the chaos of a dangerous mission. They were in pursuit of a notorious Death Eater, their hearts pounding with adrenaline. The confrontation was intense, and Harry, in a moment of reckless bravery, found himself in the path of a deadly curse. Draco, driven by a surge of fear and concern, managed to pull Harry away in the nick of time.
+
+The rush of the near-death experience left them breathless, their hearts pounding in sync. With the suspect apprehended and the danger averted, they found themselves in a rare moment of quiet. The palpable fear of losing each other hung heavily in the air, pushing Harry to finally break the silence.
+
+"I can't lose you, Draco," he confessed, his voice barely more than a whisper, his green eyes intense with emotion. The words, heavy with affection, echoed in the silence, causing Draco's heart to flutter. Harry's confession was raw and honest, stripping away the last barrier between them.
+
+In response, Draco found himself speechless, his mind struggling to process Harry's words. But his heart knew the answer before his mind did. "I can't lose you either, Harry," he replied, his voice choked with emotion. The confession, simple yet profound, marked the end of their emotional struggle.
+
+Their confessions brought a wave of relief, washing away the fear and apprehension that had been shadowing their hearts. They had acknowledged their feelings, opening their hearts to the affection that had been silently blossoming. This marked the end of a chapter filled with emotional turmoil and the beginning of a journey of mutual affection and shared commitment.
