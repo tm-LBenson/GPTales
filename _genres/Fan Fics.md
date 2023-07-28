@@ -1,4 +1,4 @@
 ---
 layout: genre
-name: Short Stories
+name: Fan Fics
 ---
