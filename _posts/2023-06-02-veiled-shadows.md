@@ -5,7 +5,7 @@ date: 2023-07-28
 genre: Fan Fics
 ---
 
-Chapter 1: Beginnings
+## Chapter 1: Beginnings
 
 In an alternate universe, a world where the war had been won but the fight was far from over, two unlikely heroes found themselves standing shoulder to shoulder. Harry Potter and Draco Malfoy, notorious rivals during their Hogwarts years, were now renowned Aurors, etching their names in history, one completed mission at a time. They were entrusted with the Herculean task of eradicating the remaining tendrils of the dark forces that threatened the wizarding world's fragile peace.
 
@@ -19,7 +19,7 @@ A once opulent office at the Ministry of Magic now served as their common ground
 
 Despite the undercurrent of tension that marked their initial interactions, the first seeds of respect were planted. They had survived the war, after all. They had seen their friends fall, their world crumble, and yet they had stood their ground. This shared experience, this collective loss, formed a bond that was hard to ignore, even for the most hardened of hearts. But this was just the beginning, the first chapter in a story that was about to unfold.
 
-Chapter 2: Shades of the Past
+## Chapter 2: Shades of the Past
 
 Their coexistence wasn't smooth sailing from the beginning. The tension in the air was as tangible as the weight of their shared responsibility. While their roles as Aurors necessitated professional civility, the ghosts of their shared past often haunted their present. Harry, despite his inherent goodness, found it challenging to reconcile with Draco's transformed persona. The specter of their past, with Draco as a smug pure-blood supremacist, cast long shadows over their newly formed partnership.
 
@@ -33,7 +33,7 @@ Their shared workspace became a silent witness to their internal battles. Draco,
 
 Despite their personal battles, their shared mission never suffered. They worked diligently, their every success bringing a sense of satisfaction that momentarily alleviated their personal turmoil. They were united in their goal, and their dedication never faltered. The end of this chapter was a symbol of their resilience, a testament to their unwavering determination in the face of adversity.
 
-Chapter 3: Unveiling Emotions
+## Chapter 3: Unveiling Emotions
 
 As their journey together continued, it evolved into something far more profound than a simple professional partnership. They were no longer just Harry Potter and Draco Malfoy, Aurors, but two individuals bound by their shared experiences and unspoken understanding. The energy between them shifted subtly, their interactions becoming less curt, more personal. Their conversations gradually strayed away from just professional topics, touching upon shared memories, and common fears.
 
@@ -47,7 +47,7 @@ Draco's confession was a revelation to Harry. For the first time, he saw Draco n
 
 That night was a turning point in their relationship. They had shared their deepest fears and regrets, providing each other with a glimpse into their tortured souls. Their shared vulnerability sparked an unexpected connection, leading to an inexplicable bond. As the first rays of dawn touched the sky, they realized they had taken a step towards understanding, perhaps even accepting each other. This was the end of one chapter and the beginning of another, a journey towards empathy, healing, and, maybe, even friendship.
 
-Chapter 4: Growing Bonds
+## Chapter 4: Growing Bonds
 
 Months began to blend together in a whirlwind of shared missions, countless stakeouts, and late-night strategy sessions. Harry and Draco, once bitter rivals, now formed a formidable duo, their successes resonating through the Ministry. But amidst the constant flurry of their professional life, their personal bond was silently weaving a story of its own.
 
@@ -61,7 +61,7 @@ Their partnership was evolving, fuelled by shared vulnerabilities and mutual res
 
 As the chapter closed, their bond had strengthened, laying the foundation for a relationship that transcended the boundaries of friendship. It was a connection built on shared pain, respect, and an unspoken affection that was just beginning to blossom. Unbeknownst to them, their lives were about to take an unexpected turn, leading them towards a path neither had dared to tread before.
 
-Chapter 5: Acknowledging Feelings
+## Chapter 5: Acknowledging Feelings
 
 The usual hustle and bustle of the Ministry's Auror Office had a different feel now for Harry and Draco. Their relationship, once marked by tension and unease, had blossomed into a bond marked by mutual respect, shared trust, and a depth of emotion that neither had anticipated. Their work was as demanding as ever, their mission unchanged, but their rapport had evolved, subtly laced with an emotion far deeper than friendship.
 
@@ -73,7 +73,7 @@ Acknowledging these feelings was no easy task. Harry, with his past marred by lo
 
 Yet, despite their internal struggle, their bond continued to grow stronger. Their feelings, though unspoken, were apparent in their lingering glances and shared smiles. The chapter closed with both of them at the cusp of a new emotional journey, their hearts filled with feelings they were yet to confess.
 
-Chapter 6: The Confession
+## Chapter 6: The Confession
 
 The undercurrent of unsaid feelings, despite their best efforts, began seeping into their interactions. The shared glances lingered longer, their touches seemed unintentionally intimate, and their banter held a softer undertone. They were standing at the edge of a precipice, their unspoken emotions threatening to push them into uncharted territory.
 
@@ -87,7 +87,7 @@ In response, Draco found himself speechless, his mind struggling to process Harr
 
 Their confessions brought a wave of relief, washing away the fear and apprehension that had been shadowing their hearts. They had acknowledged their feelings, opening their hearts to the affection that had been silently blossoming. This marked the end of a chapter filled with emotional turmoil and the beginning of a journey of mutual affection and shared commitment.
 
-Chapter 7: Navigating New Waters
+## Chapter 7: Navigating New Waters
 
 With their feelings confessed, Harry and Draco were sailing uncharted waters. Their friendship had evolved into something far more profound, their bond strengthened by the affection they harbored for each other. This newfound relationship was exhilarating, yet it was also accompanied by a wave of uncertainties.
 
@@ -99,7 +99,7 @@ Despite the challenges, they found comfort in their shared understanding and res
 
 This chapter of their lives was a mix of tender moments and shared responsibilities. They were exploring the nuances of their relationship, learning to balance their duty as Aurors with their affection for each other. As the chapter closed, they had managed to successfully navigate the new waters, their bond stronger and deeper than ever.
 
-Epilogue: Veiled Shadows Uncovered
+## Epilogue: Veiled Shadows Uncovered
 
 The world had changed, and so had they. The battle scars had faded into faint reminders of their turbulent past, the veiled shadows of war replaced by the warm light of peace. Harry and Draco, once pitted against each other, had walked a challenging path together, their bond transforming from rivalry to friendship, and finally, to love.
 
